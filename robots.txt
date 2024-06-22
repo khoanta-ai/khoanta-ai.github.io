@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://khoanta-ai.github.io/sitemap.xml
+Sitemap: https://khoanta-ai.github.io/blog//sitemap.xml
